@@ -1,49 +1,29 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Peter&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+# Hi, I'm Peter 👋
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me
+<img src="./kyubey.gif" align="right" height="120" alt="Kyubey" />
 
-I'm a **Software Engineer**.
+Software engineer. I build small, finished things in the browser: games, generators and tools that run without a backend when they can, and I write about what I learn along the way.
 
-- 📄 Checkout my [Portfolio](https://peter-present.xyz/)
-- ✍️ Read my thoughts on my [Blog](https://blog.peter-present.xyz/)
+[Portfolio](https://peter-present.xyz/) · [Blog](https://blog.peter-present.xyz/)
 
----
+## How I like to work
 
-## 🛠️ Tech Stack <img height="40" src="./kyubey.gif" align="right"/>
+- **Deterministic and offline first.** Same seed, same world. No backend unless the problem needs one.
+- **Tested like a product.** Unit tests for generators and solvers, thousands of seeds in bulk, Playwright for real playthroughs.
+- **Documented.** Design docs live next to the code, so the next person (usually me) can pick it up.
+- **AI-assisted, human-owned.** I use Claude Code daily and keep `CLAUDE.md` conventions in each repo so it follows the same rules I do. I also write Claude skills, e.g. one for BA/PO user stories and acceptance criteria.
 
-### Languages & Core
+## Tech
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,go,cs,dotnet,java,vue&theme=dark" />
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
-### Tools & Infrastructure
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,mysql,mongodb,postgres,tailwind,vscode,git&theme=dark" />
-  </a>
-</p>
-
----
-
-## 📊 Stats
-
-<details>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=tokyonight&border_radius=10&hide_title=true" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=tokyonight&hide_border=false&border_radius=10" alt="Streak Stats" height="180" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&exclude_repo=Project2,WebCore&langs_count=10" alt="Top Languages" height="180" />
-  </p>
-</details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+Earlier work also includes Go, C#/.NET, Java, C++, Python, Kafka, MySQL and MongoDB.
